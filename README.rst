@@ -53,3 +53,4 @@ Usage
     >>> wai = WordAi('demo@demo.com', 'demo')
     >>> print wai.text_with_spintax(u"Some test text whič is fü.")
     u"Some {test|evaluation} text whič is fü.\n"
+

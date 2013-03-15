@@ -17,7 +17,7 @@ long_description = \
 
 setup(
     name='wordai',
-    version="0.1",
+    version="0.1.1",
     description="Python bindings for WordAi API",
     long_description=long_description,
     classifiers=[

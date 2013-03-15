@@ -21,7 +21,7 @@ class WordAi(object):
     URL = None
     ACCOUNT_URL = 'http://wordai.com/users/account-api.php'
 
-    TIMEOUT = 20
+    TIMEOUT = 80
 
     DEFAULT_PARAMS = None
 
